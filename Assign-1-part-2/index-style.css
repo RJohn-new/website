@@ -1,0 +1,41 @@
+body {
+	margin: 5;
+	background-color: #FFC425;
+}
+
+.header {
+	width: 94%;
+	background-color: #231F20;
+	padding: 10px;
+	text-align: center;
+	color: white;
+}
+
+.column {
+	float: left;
+	padding: 10px;
+}
+.column.side {
+	text-align: center;
+	background-color: lightgreen;
+	width: 31%;
+}
+.column.middle {
+	background-color: white;
+	width: 62%;
+}
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+a:link {
+	color: black;
+	text-decoration: none;
+}
+a:visited {
+	color: black;
+}
+a:hover {
+	color: blue;
+}
