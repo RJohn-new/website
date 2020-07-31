@@ -1,0 +1,10 @@
+
+
+
+	3 tires 	1 oil 	5 spark plugs 	$363
+	10 tires 	10 oil 	10 spark plugs 	$1254
+	abd tires 	a oil 	-1 spark plugs 	$-4.4
+	999 tires 	999 oil 	 spark plugs 	$120879
+	1 tires 	5 oil 	4 spark plugs 	$182.6
+	 tires 	 oil 	 spark plugs 	$0
+	3 tires 	3 oil 	3 spark plugs 	$376.2
