@@ -1,0 +1,31 @@
+.tab_nav{
+width:4%
+}
+/*
+	gotcha 1 css, changed the color scheme to be KSU-themed
+	other changes are throughout inline styles in the program
+*/
+.tab_main{
+border : Orange 3 solid; Margin:100; width:100%; background: lightgray; padding:15
+}
+
+.tab_left{
+border-right:black 1 solid;
+width:200px
+}
+
+a:link{
+	 color:#231F20;
+	text-decoration:none;
+	}
+a:active {  
+ 	  color:'green';
+	}
+a:visited{ 
+	   color:#231F20;
+	}
+a:hover{
+	 color:#231F20;
+	background-color:yellow;
+	}
+
