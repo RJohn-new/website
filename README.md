@@ -1,6 +1,8 @@
 # website
 Home website created for an Internet Programming Class with links to assignments.
 
+Profile Page of first three are based on the KSU Faculty webpages.
+
 Homepage = Profile with ONLY html
 
 Assign-1-2 = Profile with external CSS styling
